@@ -1,0 +1,2 @@
+ssh-keygen -t rsa -C heju2013@qq.com
+t remote add java_learning git@github.com:juglan/java-interview.git
